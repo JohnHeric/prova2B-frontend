@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/prova2B-frontend/static/css/main.d221dc40.css",
+    "main.js": "/prova2B-frontend/static/js/main.0dd9657d.js",
+    "static/media/pagina404.png": "/prova2B-frontend/static/media/pagina404.4bf0805d8d55a31c5142.png",
+    "index.html": "/prova2B-frontend/index.html",
+    "main.d221dc40.css.map": "/prova2B-frontend/static/css/main.d221dc40.css.map",
+    "main.0dd9657d.js.map": "/prova2B-frontend/static/js/main.0dd9657d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.0dd9657d.js"
+  ]
+}
