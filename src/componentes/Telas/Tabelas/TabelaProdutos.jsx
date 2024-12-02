@@ -85,9 +85,7 @@ export default function TabelaProdutos(props) {
                         Adicionar
                     </Button>
                     <Table striped bordered hover>
-                        <thead>
-                            
-                        </thead>
+                       
                         <tbody>
                             {
                                 listaDeProdutos?.map((produto) => {
